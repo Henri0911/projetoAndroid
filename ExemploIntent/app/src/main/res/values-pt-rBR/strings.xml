@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exemplo Intent</string>
+    <string name="digiteAlgo">Digite algo</string>
+    <string name="enviar">Enviar</string>
+    <string name="pergunta">O que você deseja fazer com</string>
+    <string name="internet">Pesquisar na Internet</string>
+    <string name="mapa">Procure um local</string>
+    <string name="erroInternet">Não consegui abri o aplicativo.</string>
+    <string name="escolhaApp">Escolha o aplicativo para abrir.</string>
+</resources>

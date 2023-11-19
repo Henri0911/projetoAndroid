@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CalculadoraDeGorjeta</string>
+    <string name="conta">Conta</string>
+    <string name="explicacao1">Abaixo estão os valores tipicos de gorjetas.</string>
+    <string name="percentual">Percentual</string>
+    <string name="gorjeta">Gorjeta</string>
+    <string name="explicacao2">Defina uma gorjeta de valor personalizado</string>
+</resources>

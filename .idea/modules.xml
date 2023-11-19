@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AndroidStudioProjects.iml" filepath="$PROJECT_DIR$/.idea/AndroidStudioProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Layout/app/src/androidTest/androidTest.iml" filepath="$PROJECT_DIR$/Layout/app/src/androidTest/androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorteio/app/src/androidTest/androidTest1.iml" filepath="$PROJECT_DIR$/Sorteio/app/src/androidTest/androidTest1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IMC/app/src/androidTest/androidTest2.iml" filepath="$PROJECT_DIR$/IMC/app/src/androidTest/androidTest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PedraPapelouTesoura/app/src/androidTest/androidTest3.iml" filepath="$PROJECT_DIR$/PedraPapelouTesoura/app/src/androidTest/androidTest3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Frasesdodia/app/src/androidTest/androidTest4.iml" filepath="$PROJECT_DIR$/Frasesdodia/app/src/androidTest/androidTest4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PedraPapelouTesoura/app/src/main/main.iml" filepath="$PROJECT_DIR$/PedraPapelouTesoura/app/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Layout/app/src/main/main1.iml" filepath="$PROJECT_DIR$/Layout/app/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Frasesdodia/app/src/main/main2.iml" filepath="$PROJECT_DIR$/Frasesdodia/app/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IMC/app/src/main/main3.iml" filepath="$PROJECT_DIR$/IMC/app/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorteio/app/src/main/main4.iml" filepath="$PROJECT_DIR$/Sorteio/app/src/main/main4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IMC/app/src/test/test.iml" filepath="$PROJECT_DIR$/IMC/app/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorteio/app/src/test/test1.iml" filepath="$PROJECT_DIR$/Sorteio/app/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Layout/app/src/test/test2.iml" filepath="$PROJECT_DIR$/Layout/app/src/test/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PedraPapelouTesoura/app/src/test/test3.iml" filepath="$PROJECT_DIR$/PedraPapelouTesoura/app/src/test/test3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Frasesdodia/app/src/test/test4.iml" filepath="$PROJECT_DIR$/Frasesdodia/app/src/test/test4.iml" />
+    </modules>
+  </component>
+</project>
